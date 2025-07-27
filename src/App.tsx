@@ -13,10 +13,10 @@ function App() {
       <Head />
       <Hero />
       <Skills />
-      <Contact />
       <Education/>
       <Projects/>
       <Experience/>
+      <Contact />
     </div>
   );
 }
