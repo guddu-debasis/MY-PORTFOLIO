@@ -1,5 +1,5 @@
 // src/components/Head.tsx
-import React from "react";
+
 import portLogo from "../assets/port.jpg"; // ✅ Use your actual image file (e.g., griffin.png)
 
 const Head = () => {

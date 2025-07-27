@@ -1,4 +1,4 @@
-import React from "react";
+
 import logo from "../assets/Outr.png"; // OUTR logo
 
 const Education = () => {
